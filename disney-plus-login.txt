@@ -1,3 +1,4 @@
 @@||disney.api.edge.bamgrid.com
 @@||disney.api.edge.bamgrid.com
 @@||static-assets.bamgrid.com
+@@||disney.connections.edge.bamgrid.com
